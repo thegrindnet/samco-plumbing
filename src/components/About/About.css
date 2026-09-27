@@ -1,0 +1,31 @@
+.about {
+  background: var(--panel);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.about__inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8%;
+}
+.about .eyebrow {
+  margin-bottom: 1.4rem;
+}
+.about__copy {
+  padding-top: 5px;
+}
+.about__copy p + p {
+  margin-top: 1.3rem;
+  color: var(--muted);
+}
+.about__copy a {
+  display: inline-block;
+  margin-top: 1.5rem;
+  font-size: 0.87rem;
+}
+@media (max-width: 700px) {
+  .about__inner {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}

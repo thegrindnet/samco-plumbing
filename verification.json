@@ -1,0 +1,172 @@
+[
+  {
+    "business": "Samco Plumbing Solutions",
+    "slug": "samco-plumbing-demo",
+    "browser": "Chromium 134 via Playwright 1.51.1",
+    "viewports": [
+      {
+        "width": 320,
+        "scrollWidth": 320,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "open/link-close/Escape-focus/outside-close passed"
+      },
+      {
+        "width": 375,
+        "scrollWidth": 375,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "open/link-close/Escape-focus/outside-close passed"
+      },
+      {
+        "width": 390,
+        "scrollWidth": 390,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "open/link-close/Escape-focus/outside-close passed"
+      },
+      {
+        "width": 768,
+        "scrollWidth": 768,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "open/link-close/Escape-focus/outside-close passed"
+      },
+      {
+        "width": 1024,
+        "scrollWidth": 1024,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "desktop navigation visible"
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "overflow": [],
+        "images": true,
+        "h1": 1,
+        "badAnchors": [],
+        "external": true,
+        "mobileMenu": "desktop navigation visible"
+      }
+    ],
+    "errors": [],
+    "assets": [
+      {
+        "path": "/samco-plumbing-demo/favicon.png",
+        "status": 200,
+        "contentType": "image/png"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/index-CnXMkLx2.js",
+        "status": 200,
+        "contentType": "application/javascript"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/index-Bi1n_pbU.css",
+        "status": 200,
+        "contentType": "text/css"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/samco-logo-DGzJeakc.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/samco-truck-equipment-Dh3Ud_xw.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/bathroom-before-B-8mYimd.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/bathroom-after-DRTsJCRq.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/excavation-equipment-BmaImJ-2.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/outdoor-worksite-DQrUAej9.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/yard-trench-BMrGB081.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/residential-trench-e-p28szy.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/underground-piping-BYu3M_XY.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/freestanding-tub-shower-CDrbxxE3.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/shower-fixtures-BROIAYTA.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/bathtub-installation-CWXdmH6s.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/exposed-plumbing-C9-pOi4k.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      },
+      {
+        "path": "/samco-plumbing-demo/assets/service-truck-outdoors-BL8u5Mmo.webp",
+        "status": 200,
+        "contentType": "image/webp"
+      }
+    ],
+    "a11y": [
+      {
+        "viewport": 1440,
+        "violations": []
+      },
+      {
+        "viewport": 390,
+        "violations": []
+      }
+    ],
+    "normalize": "Exact bytes verified; first CSS import",
+    "prerender": "Complete body present in production HTML; English; noindex; no guessed canonical/schema",
+    "faqKeyboard": "Passed",
+    "keyboardFocus": "Skip link and focus outline verified",
+    "contactActions": "Correct tel/mailto targets; no form; not activated"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "original": "hero_1_maybe.jpg",
+    "file": "samco-truck-equipment.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Samco service truck with plumbing equipment",
+    "originalBytes": 102563,
+    "optimizedBytes": 80218
+  },
+  {
+    "original": "image_1.jpg",
+    "file": "excavation-equipment.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Excavator beside an open plumbing trench",
+    "originalBytes": 153382,
+    "optimizedBytes": 146890
+  },
+  {
+    "original": "image_2.jpg",
+    "file": "outdoor-worksite.webp",
+    "width": 900,
+    "height": 1200,
+    "alt": "Outdoor worksite with a service vehicle",
+    "originalBytes": 597658,
+    "optimizedBytes": 244128
+  },
+  {
+    "original": "image_3.jpg",
+    "file": "yard-trench.webp",
+    "width": 900,
+    "height": 1200,
+    "alt": "Long trench through a grassy yard",
+    "originalBytes": 793812,
+    "optimizedBytes": 367340
+  },
+  {
+    "original": "image_4.jpg",
+    "file": "residential-trench.webp",
+    "width": 900,
+    "height": 1200,
+    "alt": "Open trench beside a residential yard",
+    "originalBytes": 844488,
+    "optimizedBytes": 390500
+  },
+  {
+    "original": "image_5.jpg",
+    "file": "underground-piping.webp",
+    "width": 900,
+    "height": 1200,
+    "alt": "Piping visible inside an excavated trench",
+    "originalBytes": 836715,
+    "optimizedBytes": 390980
+  },
+  {
+    "original": "Image_6.jpg",
+    "file": "freestanding-tub-shower.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Freestanding bathtub beside a walk-in shower",
+    "originalBytes": 42935,
+    "optimizedBytes": 26734
+  },
+  {
+    "original": "image_7.jpg",
+    "file": "shower-fixtures.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Shower fixtures set against marble-pattern tile",
+    "originalBytes": 60267,
+    "optimizedBytes": 43296
+  },
+  {
+    "original": "image_8.jpg",
+    "file": "bathtub-installation.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Freestanding bathtub in a room under renovation",
+    "originalBytes": 67039,
+    "optimizedBytes": 46734
+  },
+  {
+    "original": "image_9.jpg",
+    "file": "exposed-plumbing.webp",
+    "width": 720,
+    "height": 960,
+    "alt": "Exposed plumbing connections inside an open wall",
+    "originalBytes": 48386,
+    "optimizedBytes": 28670
+  },
+  {
+    "original": "image_11.jpg",
+    "file": "service-truck-outdoors.webp",
+    "width": 540,
+    "height": 960,
+    "alt": "Samco truck parked near an outdoor worksite",
+    "originalBytes": 124941,
+    "optimizedBytes": 118612
+  },
+  {
+    "original": "image_10_before.jpg",
+    "file": "bathroom-before.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Bathroom before renovation with unfinished walls and exposed plumbing",
+    "originalBytes": 56086,
+    "optimizedBytes": 36510
+  },
+  {
+    "original": "image_10_after.jpg",
+    "file": "bathroom-after.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Bathroom after renovation with a freestanding tub and tiled shower",
+    "originalBytes": 50281,
+    "optimizedBytes": 34308
+  }
+]
